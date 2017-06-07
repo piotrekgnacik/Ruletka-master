@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "937430313232",
+    "firebase_url": "https://ruletka-a6900.firebaseio.com",
+    "project_id": "ruletka-a6900",
+    "storage_bucket": "ruletka-a6900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937430313232:android:789ebbd11c121d94",
+        "android_client_info": {
+          "package_name": "com.agh.ruletka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937430313232-au18ru19ck3o84j3hompbsd60cbgo3o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agh.ruletka",
+            "certificate_hash": "c72dca44c6e0e0c533bde762029844cab3c25252"
+          }
+        },
+        {
+          "client_id": "937430313232-5haq01nn8bjvhau0m6igdumgf85bt50s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6M3Nhj_Kwk_YehrWRNBFVFoIAbrgvE48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937430313232-5haq01nn8bjvhau0m6igdumgf85bt50s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
